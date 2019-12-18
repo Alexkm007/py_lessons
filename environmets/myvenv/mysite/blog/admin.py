@@ -1,9 +1,8 @@
 from django.contrib import admin
-from .models import  Post
+from .models import  Post, Comment
 from django.contrib.admin.templatetags.admin_modify import prepopulated_fields_js_tag
 from django.contrib.admin.templatetags.admin_list import date_hierarchy
 @admin.register(Post)
-
 class PostAdmin(admin.ModelAdmin):
     list_display = ('title','slug','author','publish','status')
     list_filter  = ('status','created','publish','author')
@@ -14,3 +13,8 @@ class PostAdmin(admin.ModelAdmin):
     ordering = ('status','publish')
 
 # Register your models here.
+@admin.register(Comment)
+class CommentAdmin(admin.ModelAdmin):
+    list_display = ('name','email','post','created','active')
+    list_filter  = ('active','created','updated')
+    search_fields = ('name','email', 'body')

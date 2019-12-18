@@ -1,0 +1,224 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-12-16T17:27:25.960Z,38.8144989,-122.8098297,1.74,0.55,md,7,110,0.008885,0.02,nc,nc73315426,2019-12-16T17:35:02.919Z,"6km NW of The Geysers, CA",earthquake,0.44,1.03,,1,automatic,nc,nc
+2019-12-16T17:26:08.820Z,35.5748333,-117.3461667,2.67,1.03,ml,16,86,0.05042,0.22,ci,ci39232432,2019-12-16T17:29:45.120Z,"21km S of Trona, CA",earthquake,0.33,0.4,0.102,11,automatic,ci,ci
+2019-12-16T17:24:44.793Z,62.3493,-151.2896,89.2,1.9,ml,,,,0.38,ak,ak019g34d2rm,2019-12-16T17:29:03.112Z,"61km W of Talkeetna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2019-12-16T17:17:28.910Z,33.8145,-117.0593333,16.73,1.4,ml,18,116,0.1165,0.33,ci,ci39232416,2019-12-16T17:21:18.613Z,"8km E of Nuevo, CA",earthquake,1.05,2.22,0.374,32,automatic,ci,ci
+2019-12-16T17:06:41.780Z,35.9903333,-117.3473333,2.73,2.02,ml,32,55,0.112,0.16,ci,ci39232400,2019-12-16T17:10:31.492Z,"25km NNE of Searles Valley, CA",earthquake,0.22,0.97,0.098,25,automatic,ci,ci
+2019-12-16T17:04:57.860Z,36.116,-117.8561667,0.73,2.19,ml,27,54,0.001899,0.19,ci,ci39232392,2019-12-16T17:15:35.660Z,"11km NE of Coso Junction, CA",earthquake,0.28,0.34,0.249,25,automatic,ci,ci
+2019-12-16T17:04:50.250Z,38.8161659,-122.8206635,0.84,1.22,md,8,104,0.009867,0.02,nc,nc73315406,2019-12-16T17:17:02.816Z,"7km NW of The Geysers, CA",earthquake,0.38,0.68,0.66,2,automatic,nc,nc
+2019-12-16T16:46:47.813Z,-8.4254,158.9639,69.54,5.5,mww,,47,7.96,0.84,us,us60006s7q,2019-12-16T17:38:46.503Z,"42km S of Dadali, Solomon Islands",earthquake,9.6,6.2,0.068,21,reviewed,us,us
+2019-12-16T16:45:02.280Z,44.7445,-110.7828333,2.08,0.31,md,9,101,0.06515,0.12,uu,uu60354322,2019-12-16T17:22:26.870Z,"27km ENE of West Yellowstone, Montana",earthquake,0.37,5.76,0.087,5,reviewed,uu,uu
+2019-12-16T16:44:17.790Z,38.8025017,-122.7331696,2.51,0.76,md,8,118,0.01662,0.03,nc,nc73315401,2019-12-16T17:19:03.826Z,"2km SSW of Cobb, CA",earthquake,0.41,1.31,0.13,3,automatic,nc,nc
+2019-12-16T16:21:53.411Z,6.5526,125.327,10,4.9,mww,,90,0.571,0.63,us,us60006s7h,2019-12-16T17:06:16.594Z,"5km SSW of Sulop, Philippines",earthquake,5.4,1.4,0.08,15,reviewed,us,us
+2019-12-16T15:54:23.650Z,35.8471667,-117.689,8.66,1.38,ml,23,46,0.07271,0.17,ci,ci39232352,2019-12-16T15:58:09.526Z,"22km ESE of Little Lake, CA",earthquake,0.26,0.67,0.189,18,automatic,ci,ci
+2019-12-16T15:51:28.643Z,61.5394,-150.7208,221.6,2.1,ml,,,,1.1,ak,ak019g33byn4,2019-12-16T16:02:46.446Z,"40km W of Big Lake, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2019-12-16T15:30:28.900Z,35.632,-117.5896667,7.81,1.34,ml,17,100,0.01948,0.22,ci,ci39232328,2019-12-16T15:34:12.403Z,"8km E of Ridgecrest, CA",earthquake,0.38,0.91,0.205,18,automatic,ci,ci
+2019-12-16T15:23:16.550Z,38.7919998,-122.7474976,1.59,0.66,md,8,90,0.01214,0.01,nc,nc73315376,2019-12-16T16:03:04.193Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.82,0.07,2,automatic,nc,nc
+2019-12-16T15:07:20.910Z,33.5961667,-116.8043333,5.1,0.86,ml,39,41,0.04954,0.22,ci,ci39232296,2019-12-16T15:11:06.271Z,"13km WNW of Anza, CA",earthquake,0.33,0.73,0.281,28,automatic,ci,ci
+2019-12-16T15:02:19.854Z,61.4002,-146.7571,21.6,2.2,ml,,,,0.71,ak,ak019g331fvd,2019-12-16T15:05:55.786Z,"37km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-16T14:50:55.219Z,66.2612,-157.0134,9.1,2,ml,,,,0.7,ak,ak019g32qddh,2019-12-16T15:04:14.575Z,"72km S of Kobuk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-12-16T14:49:58.000Z,35.676,-117.4911667,3.87,1.14,ml,16,136,0.07622,0.18,ci,ci39232288,2019-12-16T14:53:43.161Z,"13km SW of Searles Valley, CA",earthquake,0.43,1.04,0.18,14,automatic,ci,ci
+2019-12-16T14:49:16.312Z,-2.9638,100.9418,42.43,5.6,mww,,96,2.442,0.56,us,us60006s6p,2019-12-16T17:14:34.561Z,"109km SSW of Sungaipenuh, Indonesia",earthquake,7.4,4.9,0.062,25,reviewed,us,us
+2019-12-16T14:43:31.170Z,33.5988333,-116.8066667,5.8,0.76,ml,26,81,0.04631,0.16,ci,ci39232264,2019-12-16T16:00:46.937Z,"13km WNW of Anza, CA",earthquake,0.28,0.55,0.185,20,reviewed,ci,ci
+2019-12-16T14:38:15.890Z,19.3155,-67.3001,52,2.96,md,9,307,0.8688,0.38,pr,pr2019350008,2019-12-16T17:09:11.040Z,"97km NNW of Isabela, Puerto Rico",earthquake,2.63,9.02,0.3,7,reviewed,pr,pr
+2019-12-16T14:25:37.550Z,33.7493333,-116.9253333,13.69,0.84,ml,22,128,0.0621,0.23,ci,ci39232256,2019-12-16T14:50:11.606Z,"3km W of Valle Vista, CA",earthquake,0.66,0.75,0.109,21,reviewed,ci,ci
+2019-12-16T14:24:36.280Z,19.2893,-67.3363,26,3.35,md,15,299,0.8521,0.43,pr,pr2019350006,2019-12-16T15:26:53.040Z,"80km NNW of Isabela, Puerto Rico",earthquake,1.89,26.3,0.33,11,reviewed,pr,pr
+2019-12-16T14:22:50.530Z,35.6385,-117.4131667,9.63,0.88,ml,15,142,0.07551,0.19,ci,ci39232248,2019-12-16T14:26:26.000Z,"14km SSW of Trona, CA",earthquake,0.59,1.02,0.165,9,automatic,ci,ci
+2019-12-16T14:18:07.160Z,19.6156673,-155.9611664,14.45,2.16,md,20,243,0.06835,0.33,hv,hv71280861,2019-12-16T17:12:25.035Z,"1km SW of Holualoa, Hawaii",earthquake,1.55,2.08,0.23,7,automatic,hv,hv
+2019-12-16T14:17:38.078Z,44.8542,-111.5232,12.59,2.4,ml,,28,0.057,0.41,us,us60006s6e,2019-12-16T15:56:15.040Z,"39km WNW of West Yellowstone, Montana",earthquake,1.1,6.7,0.055,44,reviewed,us,us
+2019-12-16T14:16:29.260Z,38.8264999,-122.7563324,0.16,0.89,md,7,145,0.01132,0.01,nc,nc73315366,2019-12-16T15:36:03.036Z,"3km W of Cobb, CA",earthquake,0.48,0.79,0.21,2,automatic,nc,nc
+2019-12-16T14:06:50.110Z,35.6168333,-117.472,6.78,3.46,ml,47,46,0.02406,0.15,ci,ci39232240,2019-12-16T17:08:37.298Z,"18km SSW of Searles Valley, CA",earthquake,0.14,0.27,0.175,122,reviewed,ci,ci
+2019-12-16T14:05:33.780Z,17.9066,-66.5888,11,2.07,md,12,211,0.1373,0.3,pr,pr2019350009,2019-12-16T16:39:04.806Z,"11km SSE of Ponce, Puerto Rico",earthquake,0.68,0.75,0.5,8,reviewed,pr,pr
+2019-12-16T14:04:34.140Z,18.4335,-67.5166,10,2.25,md,3,300,0.0617,0.29,pr,pr2019350011,2019-12-16T17:38:06.849Z,"30km WNW of Rincon, Puerto Rico",earthquake,4.11,1.75,0.39,3,reviewed,pr,pr
+2019-12-16T13:52:21.137Z,-5.9108,129.9978,207.81,4.6,mb,,121,2.43,0.38,us,us60006s66,2019-12-16T15:12:51.040Z,"268km NNW of Saumlaki, Indonesia",earthquake,10.8,9.9,0.122,20,reviewed,us,us
+2019-12-16T13:50:15.912Z,62.5139,-151.3833,69.7,2.3,ml,,,,0.69,ak,ak019g324uq9,2019-12-16T14:04:12.977Z,"69km WNW of Talkeetna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2019-12-16T13:48:00.458Z,6.6834,125.1508,10,4.6,mb,,98,0.572,0.64,us,us60006s6b,2019-12-16T15:35:30.040Z,"9km SSW of Magsaysay, Philippines",earthquake,5.8,1.9,0.122,20,reviewed,us,us
+2019-12-16T13:44:10.321Z,63.3652,-145.4367,0.1,2,ml,,,,0.67,ak,ak019g323k0q,2019-12-16T13:53:09.217Z,"57km S of Deltana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-16T13:33:07.705Z,60.497,-143.0549,2.6,2.1,ml,,,,0.84,ak,ak019g3216xc,2019-12-16T13:39:05.328Z,"59km NW of Cape Yakataga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2019-12-16T13:31:30.050Z,36.5295,-98.98816667,8.21,1.66,ml,26,137,0.04679081805,0.09,ok,ok2019yori,2019-12-16T14:28:29.440Z,"21km ENE of Mooreland, Oklahoma",earthquake,,0.3,0.17,9,reviewed,ok,ok
+2019-12-16T13:29:08.820Z,38.793335,-122.7588348,3.45,0.56,md,6,133,0.02001,0.01,nc,nc73315351,2019-12-16T14:55:02.791Z,"2km N of The Geysers, CA",earthquake,0.69,2.68,,1,automatic,nc,nc
+2019-12-16T13:08:43.510Z,33.5931667,-116.8056667,3.92,0.82,ml,40,41,0.05085,0.21,ci,ci39232216,2019-12-16T14:56:19.660Z,"13km WNW of Anza, CA",earthquake,0.27,0.54,0.187,27,reviewed,ci,ci
+2019-12-16T13:06:19.559Z,36.76083333,-98.07066667,7.52,2.09,ml,59,89,0,0.16,ok,ok2019yoqn,2019-12-16T14:21:22.213Z,"25km E of Cherokee, Oklahoma",earthquake,,0.4,0.2,24,reviewed,ok,ok
+2019-12-16T13:01:33.938Z,61.403,-150.2779,35.5,3.1,ml,,,,0.53,ak,ak019g31ue0b,2019-12-16T15:03:20.112Z,"21km SW of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2019-12-16T13:00:32.836Z,61.7037,-148.1359,23.2,1.2,ml,,,,0.45,ak,ak019g31u66c,2019-12-16T13:07:15.612Z,"39km ESE of Sutton-Alpine, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-12-16T12:52:43.220Z,19.3353329,-155.1378326,3.22,2.22,ml,53,115,0.0499,0.17,hv,hv71280786,2019-12-16T12:58:26.850Z,"14km SE of Volcano, Hawaii",earthquake,0.35,0.85,0.32,18,automatic,hv,hv
+2019-12-16T12:52:33.719Z,-7.1081,106.0285,57.61,4.8,mb,,173,4.098,0.63,us,us60006s5l,2019-12-16T14:15:30.040Z,"26km SSW of Panyaungan Timur, Indonesia",earthquake,10,6.3,0.084,44,reviewed,us,us
+2019-12-16T12:36:27.550Z,35.8941667,-117.688,1.41,0.77,ml,10,81,0.06171,0.16,ci,ci39232200,2019-12-16T12:39:56.535Z,"20km ESE of Little Lake, CA",earthquake,0.29,0.6,0.106,10,automatic,ci,ci
+2019-12-16T12:34:02.734Z,6.7122,125.1409,10,4.6,mb,,98,0.561,0.83,us,us60006s5g,2019-12-16T13:01:08.040Z,"7km SW of Magsaysay, Philippines",earthquake,7.5,1.9,0.122,20,reviewed,us,us
+2019-12-16T12:29:47.714Z,62.427,-149.0893,34.6,2.2,ml,,,,0.57,ak,ak019g31eziy,2019-12-16T12:38:08.468Z,"49km NE of Y, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-16T12:27:49.070Z,38.8166656,-122.8146667,2.87,0.56,md,14,57,0.007617,0.03,nc,nc73315346,2019-12-16T12:44:03.059Z,"7km NW of The Geysers, CA",earthquake,0.36,0.79,0.01,2,automatic,nc,nc
+2019-12-16T12:19:12.536Z,62.1964,-150.3648,14.4,1.9,ml,,,,0.56,ak,ak019g31crji,2019-12-16T12:23:42.114Z,"19km SW of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2019-12-16T12:17:42.868Z,69.6192,-144.749,11.6,4.3,ml,,,,0.47,ak,ak019g31cf0e,2019-12-16T12:41:48.842Z,"78km SW of Kaktovik, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-12-16T12:11:44.560Z,19.1795006,-155.428833,35.72,1.78,md,44,160,0.06485,0.1,hv,hv71280746,2019-12-16T12:14:52.510Z,"6km ESE of Pahala, Hawaii",earthquake,0.62,0.99,0.07,4,automatic,hv,hv
+2019-12-16T12:01:09.610Z,19.2161674,-155.3978271,31.81,1.85,md,32,166,0.02123,0.11,hv,hv71280736,2019-12-16T12:04:25.420Z,"8km E of Pahala, Hawaii",earthquake,0.66,0.93,,3,automatic,hv,hv
+2019-12-16T11:54:09.170Z,35.5628333,-117.403,3.45,1.09,ml,14,137,0.04912,0.13,ci,ci39232176,2019-12-16T17:37:31.586Z,"22km S of Trona, CA",earthquake,0.27,0.52,0.138,6,reviewed,ci,ci
+2019-12-16T11:51:52.440Z,36.5713348,-121.1363297,5.28,1.06,md,6,225,0.03951,0.02,nc,nc73315336,2019-12-16T12:07:02.852Z,"4km N of Pinnacles, CA",earthquake,2.2,2.24,0.04,4,automatic,nc,nc
+2019-12-16T11:44:51.451Z,61.4159,-149.9447,40,1.7,ml,,,,0.63,ak,ak019g30wryo,2019-12-16T11:53:15.587Z,"11km S of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2019-12-16T11:25:58.239Z,24.509,121.7971,51.53,4.9,mb,,38,0.381,1.25,us,us60006s4x,2019-12-16T14:29:57.659Z,"11km SSW of Su'ao, Taiwan",earthquake,5.1,5.9,0.055,105,reviewed,us,us
+2019-12-16T11:04:21.500Z,33.393,-116.4211667,10.92,0.99,ml,38,67,0.09822,0.22,ci,ci39232168,2019-12-16T14:56:18.645Z,"16km NNW of Borrego Springs, CA",earthquake,0.3,0.56,0.207,27,reviewed,ci,ci
+2019-12-16T10:56:52.103Z,61.5531,-147.9048,13.2,3.3,ml,,,,0.76,ak,ak019g30dwyk,2019-12-16T11:11:25.912Z,"55km E of Lazy Mountain, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-16T10:50:52.950Z,19.2133,-67.3451,40,2.81,md,14,297,0.7816,0.47,pr,pr2019350005,2019-12-16T11:44:45.337Z,"83km NNW of San Antonio, Puerto Rico",earthquake,2.42,11.29,0.33,14,reviewed,pr,pr
+2019-12-16T10:45:59.998Z,65.0195,-150.6445,1.1,2,ml,,,,0.84,ak,ak019g30bnuw,2019-12-16T10:50:38.797Z,"2km NNW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-16T10:37:49.723Z,60.2655,-143.1302,11.1,1.8,ml,,,,0.68,ak,ak019g309u7w,2019-12-16T10:40:16.125Z,"44km WNW of Cape Yakataga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2019-12-16T10:35:58.160Z,46.7171666666667,-120.004833333333,6.24,1.65,ml,19,104,,0.06,uw,uw61564131,2019-12-16T14:32:21.250Z,"7km WNW of Desert Aire, Washington",earthquake,0.24,0.25,0.111887504752557,13,reviewed,uw,uw
+2019-12-16T10:34:07.070Z,36.113,-117.8556667,2.53,2.11,ml,28,53,0.004617,0.15,ci,ci39232160,2019-12-16T10:45:05.890Z,"11km NE of Coso Junction, CA",earthquake,0.23,0.33,0.224,26,automatic,ci,ci
+2019-12-16T10:33:16.190Z,36.1108333,-117.8593333,2.59,2.26,ml,29,54,0.007645,0.17,ci,ci39232152,2019-12-16T10:44:01.440Z,"11km NE of Coso Junction, CA",earthquake,0.25,0.35,0.237,25,automatic,ci,ci
+2019-12-16T10:31:39.590Z,33.2256667,-116.7336667,10.48,0.52,ml,16,83,0.02341,0.15,ci,ci39232144,2019-12-16T14:56:49.771Z,"3km ESE of Lake Henshaw, CA",earthquake,0.32,0.41,0.249,7,reviewed,ci,ci
+2019-12-16T10:29:01.252Z,66.2722,-157.5021,0,1.5,ml,,,,1.09,ak,ak019g3080q1,2019-12-16T10:38:35.442Z,"75km SSW of Kobuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-12-16T10:24:22.100Z,35.715,-117.5703333,6.97,1.05,ml,21,119,0.09276,0.17,ci,ci39232136,2019-12-16T14:57:06.118Z,"14km NE of Ridgecrest, CA",earthquake,0.31,0.83,0.14,11,reviewed,ci,ci
+2019-12-16T10:23:02.070Z,35.876,-117.7076667,10.69,0.77,ml,11,68,0.08179,0.08,ci,ci39232128,2019-12-16T10:26:38.734Z,"19km ESE of Little Lake, CA",earthquake,0.27,0.46,0.08,7,automatic,ci,ci
+2019-12-16T10:20:11.520Z,35.84,-117.6441667,6.35,0.54,ml,7,103,0.04498,0.14,ci,ci39232120,2019-12-16T14:57:08.549Z,"23km WNW of Searles Valley, CA",earthquake,0.47,1.22,0.186,6,reviewed,ci,ci
+2019-12-16T10:15:56.260Z,19.4160004,-155.2718353,1.09,1.9,ml,32,36,0.01026,0.14,hv,hv71280626,2019-12-16T10:21:39.930Z,"3km WSW of Volcano, Hawaii",earthquake,0.21,0.13,0.21,13,automatic,hv,hv
+2019-12-16T09:56:34.500Z,33.581,-116.8095,4.89,1.14,ml,49,23,0.03996,0.16,ci,ci39232112,2019-12-16T14:59:28.040Z,"13km WNW of Anza, CA",earthquake,0.17,0.52,0.179,28,reviewed,ci,ci
+2019-12-16T09:55:25.160Z,37.5733337,-118.815834,10.03,2.14,md,21,99,0.01972,0.05,nc,nc73315301,2019-12-16T13:07:03.190Z,"12km W of Toms Place, CA",earthquake,0.4,0.8,0.22,18,automatic,nc,nc
+2019-12-16T09:54:33.130Z,35.786499,-120.3271637,2.86,1.77,md,14,107,0.01703,0.07,nc,nc73315296,2019-12-16T12:52:03.109Z,"8km NNW of Cholame, CA",earthquake,0.39,0.67,0.13,3,automatic,nc,nc
+2019-12-16T09:53:29.320Z,36.1096667,-117.8538333,2.65,1.68,ml,23,69,0.007941,0.13,ci,ci39232104,2019-12-16T09:57:26.290Z,"11km NE of Coso Junction, CA",earthquake,0.21,0.29,0.248,26,automatic,ci,ci
+2019-12-16T09:50:26.840Z,33.7593333,-116.9176667,14.27,0.8,ml,23,55,0.06409,0.2,ci,ci39232096,2019-12-16T09:54:10.256Z,"3km WNW of Valle Vista, CA",earthquake,0.36,0.64,0.155,21,automatic,ci,ci
+2019-12-16T09:44:59.510Z,33.759,-116.926,13.35,2.12,ml,83,19,0.06006,0.2,ci,ci39232080,2019-12-16T09:57:44.990Z,"3km WNW of Valle Vista, CA",earthquake,0.17,0.43,0.175,26,automatic,ci,ci
+2019-12-16T09:41:54.187Z,63.2809,-151.3928,8.4,1.5,ml,,,,0.48,ak,ak019g2zp9tl,2019-12-16T09:45:45.601Z,"122km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2019-12-16T09:40:53.710Z,33.3626667,-116.3823333,14.44,0.75,ml,18,108,0.06087,0.17,ci,ci39232072,2019-12-16T14:59:08.660Z,"12km N of Borrego Springs, CA",earthquake,0.43,0.71,0.208,13,reviewed,ci,ci
+2019-12-16T09:39:57.890Z,36.1108333,-117.8526667,3.08,0.88,ml,14,121,0.006963,0.15,ci,ci39232064,2019-12-16T15:01:05.243Z,"11km NE of Coso Junction, CA",earthquake,0.41,0.52,0.245,9,reviewed,ci,ci
+2019-12-16T09:14:30.450Z,35.8641667,-117.6771667,8.99,0.55,ml,10,86,0.08077,0.07,ci,ci39232056,2019-12-16T09:18:12.528Z,"22km ESE of Little Lake, CA",earthquake,0.31,0.94,0.169,6,automatic,ci,ci
+2019-12-16T09:09:24.320Z,36.9253,-116.0933,13.1,-0.3,ml,6,147.85,0.124,0.03,nn,nn00713060,2019-12-16T09:54:48.473Z,"59km E of Beatty, Nevada",earthquake,,1.8,,,automatic,nn,nn
+2019-12-16T09:09:21.540Z,33.3958333,-116.4125,12.89,0.89,ml,29,105,0.09234,0.18,ci,ci39232048,2019-12-16T15:01:04.671Z,"16km NNW of Borrego Springs, CA",earthquake,0.33,0.7,0.144,15,reviewed,ci,ci
+2019-12-16T09:07:17.730Z,36.5584984,-121.0931702,11.31,1.4,md,8,138,0.04754,0.12,nc,nc73315271,2019-12-16T10:48:03.409Z,"5km ENE of Pinnacles, CA",earthquake,1.24,2.66,0.34,7,automatic,nc,nc
+2019-12-16T09:06:22.890Z,33.39,-116.4335,11.36,2.23,ml,78,21,0.1073,0.2,ci,ci39232040,2019-12-16T09:17:32.140Z,"16km NNW of Borrego Springs, CA",earthquake,0.2,0.59,0.186,25,automatic,ci,ci
+2019-12-16T09:00:11.179Z,59.5001,-152.7747,75.2,2.4,ml,,,,0.61,ak,ak019g2zge5i,2019-12-16T09:12:19.040Z,"61km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-16T08:53:50.760Z,36.7178,-116.0365,5.2,0.5,ml,14,83.07,0.044,0.09,nn,nn00713059,2019-12-16T09:10:43.759Z,"56km N of Pahrump, Nevada",earthquake,,0.6,,,automatic,nn,nn
+2019-12-16T08:53:31.144Z,6.6238,125.4821,25.66,5,mww,,89,0.453,0.93,us,us60006s3m,2019-12-16T09:13:02.040Z,"4km ENE of Tanlad, Philippines",earthquake,7.3,4.5,0.08,15,reviewed,us,us
+2019-12-16T08:38:02.200Z,35.7993333,-117.6303333,8.27,1.07,ml,21,68,0.0313,0.17,ci,ci39232016,2019-12-16T08:41:41.443Z,"20km NNE of Ridgecrest, CA",earthquake,0.25,0.62,0.084,12,automatic,ci,ci
+2019-12-16T08:37:09.990Z,36.1115,-117.8593333,3.04,1.26,ml,15,166,0.007066,0.15,ci,ci39232008,2019-12-16T08:40:40.642Z,"11km NE of Coso Junction, CA",earthquake,0.36,0.4,0.269,16,automatic,ci,ci
+2019-12-16T08:36:25.291Z,40.5736,-117.5248,6.2,2.8,ml,17,76.21,0.957,0.2949,nn,nn00713055,2019-12-16T17:23:04.002Z,"45km SSE of Winnemucca, Nevada",earthquake,,2.5,0.38,11,reviewed,nn,nn
+2019-12-16T08:31:08.780Z,36.0956667,-117.9093333,4.47,0.85,ml,11,200,0.04924,0.11,ci,ci39232000,2019-12-16T08:34:38.260Z,"7km NNE of Coso Junction, CA",earthquake,0.37,0.35,0.165,10,automatic,ci,ci
+2019-12-16T08:25:27.190Z,38.0696,20.3665,25.14,4.7,mb,,97,1.524,0.78,us,us60006s36,2019-12-16T09:00:36.040Z,"15km SSW of Lixourion, Greece",earthquake,6.6,4.4,0.142,15,reviewed,us,us
+2019-12-16T08:15:28.990Z,36.1128333,-117.8538333,3.44,1.19,ml,13,126,0.004809,0.12,ci,ci39231984,2019-12-16T08:19:16.602Z,"11km NE of Coso Junction, CA",earthquake,0.27,0.34,0.252,13,automatic,ci,ci
+2019-12-16T08:13:14.370Z,36.1123333,-117.858,2.24,2.66,ml,31,54,0.005821,0.16,ci,ci39231968,2019-12-16T08:24:14.190Z,"11km NE of Coso Junction, CA",earthquake,0.24,0.38,0.236,25,automatic,ci,ci
+2019-12-16T08:09:11.740Z,35.8623333,-117.688,4.51,0.49,ml,10,80,0.08235,0.12,ci,ci39231960,2019-12-16T08:12:44.136Z,"21km ESE of Little Lake, CA",earthquake,0.3,0.89,0.056,5,automatic,ci,ci
+2019-12-16T08:07:40.910Z,19.7501659,-155.5396729,21.93,1.84,md,39,70,0.009734,0.14,hv,hv71280501,2019-12-16T08:10:54.760Z,"33km SSE of Waimea, Hawaii",earthquake,0.48,0.77,0.28,3,automatic,hv,hv
+2019-12-16T07:59:29.450Z,33.5096667,-116.454,6.84,0.49,ml,12,102,0.08008,0.09,ci,ci39231952,2019-12-16T15:03:09.804Z,"21km ESE of Anza, CA",earthquake,0.2,0.68,0.249,9,reviewed,ci,ci
+2019-12-16T07:59:05.170Z,19.4691658,-155.4044952,22.55,2.09,ml,55,45,0.02956,0.12,hv,hv71280491,2019-12-16T08:05:52.710Z,"18km WNW of Volcano, Hawaii",earthquake,0.44,0.62,3.65,6,automatic,hv,hv
+2019-12-16T07:58:11.970Z,38.7993317,-122.817337,3.21,0.56,md,11,83,0.01328,0.02,nc,nc73315251,2019-12-16T09:51:05.340Z,"6km WNW of The Geysers, CA",earthquake,0.4,1,0.38,2,automatic,nc,nc
+2019-12-16T07:54:56.711Z,60.2837,-151.5564,54,2,ml,,,,0.52,ak,ak019g2yl74j,2019-12-16T08:05:36.024Z,"16km SW of Cohoe, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2019-12-16T07:48:42.040Z,19.1053,-67.7556,26,3.3,md,12,318,0.772,0.36,pr,pr2019350004,2019-12-16T11:28:32.226Z,"89km NE of Punta Cana, Dominican Republic",earthquake,2.22,22.03,0.29,11,reviewed,pr,pr
+2019-12-16T07:41:51.596Z,4.451,123.0299,571.25,4.5,mb,,84,3.633,0.72,us,us60006s2g,2019-12-16T08:05:49.040Z,"215km SE of Tabiauan, Philippines",earthquake,10.2,8.7,0.087,39,reviewed,us,us
+2019-12-16T07:38:19.820Z,33.1301667,-116.3973333,3.5,0.83,ml,19,93,0.1354,0.18,ci,ci39231944,2019-12-16T07:42:01.483Z,"14km S of Borrego Springs, CA",earthquake,0.32,1.57,0.124,7,automatic,ci,ci
+2019-12-16T07:26:29.203Z,62.2239,-142.53,0,2.1,ml,,,,1.17,ak,ak019g2yf4x5,2019-12-16T07:35:59.227Z,"126km S of Tok, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-16T07:19:36.270Z,36.1125,-117.8565,2.72,1.74,ml,25,95,0.005241,0.18,ci,ci39231936,2019-12-16T07:30:21.160Z,"11km NE of Coso Junction, CA",earthquake,0.34,0.52,0.219,26,automatic,ci,ci
+2019-12-16T07:16:43.500Z,36.113,-117.8568333,3.04,2.75,ml,32,54,0.004842,0.16,ci,ci39231920,2019-12-16T07:27:54.380Z,"11km NE of Coso Junction, CA",earthquake,0.24,0.43,0.199,26,automatic,ci,ci
+2019-12-16T07:16:30.840Z,38.8271675,-122.8111649,1.56,0.56,md,12,83,0.003862,0.01,nc,nc73315221,2019-12-16T08:54:02.738Z,"7km NW of The Geysers, CA",earthquake,0.31,0.57,,1,automatic,nc,nc
+2019-12-16T07:07:42.340Z,33.9375,-117.1331667,9.49,0.81,ml,17,88,0.09656,0.24,ci,ci39231912,2019-12-16T07:11:20.250Z,"9km E of Moreno Valley, CA",earthquake,0.49,1.96,0.109,14,automatic,ci,ci
+2019-12-16T07:01:58.683Z,63.0166,-150.811,97.7,2.4,ml,,,,0.75,ak,ak019g2y9uch,2019-12-16T07:11:53.375Z,"85km NNW of Talkeetna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-12-16T07:01:42.480Z,19.4098339,-155.8548279,6.6,2.12,md,36,137,0.09744,0.28,hv,hv71280431,2019-12-16T07:05:05.960Z,"5km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.72,0.11,13,automatic,hv,hv
+2019-12-16T07:00:42.870Z,35.7875,-117.6101667,2.85,1.61,ml,26,58,0.03,0.15,ci,ci39231896,2019-12-16T07:11:47.910Z,"19km W of Searles Valley, CA",earthquake,0.22,0.36,0.159,27,automatic,ci,ci
+2019-12-16T06:57:33.201Z,59.8708,-152.7313,80.2,2.5,ml,,,,0.38,ak,ak019g2y0cug,2019-12-16T07:03:10.026Z,"51km WNW of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2019-12-16T06:42:30.130Z,35.5303333,-117.4906667,6.53,1.74,ml,33,42,0.06066,0.2,ci,ci39231880,2019-12-16T15:04:35.720Z,"20km ESE of Ridgecrest, CA",earthquake,0.29,0.68,0.194,25,reviewed,ci,ci
+2019-12-16T06:38:42.502Z,32.3863,137.4731,396.1,4.4,mb,,84,2.102,0.68,us,us60006s1w,2019-12-16T07:22:04.040Z,"204km SE of Shingu, Japan",earthquake,7.6,5.8,0.062,75,reviewed,us,us
+2019-12-16T06:18:27.950Z,35.8608333,-117.6666667,5.41,0.62,ml,10,114,0.07199,0.12,ci,ci39231872,2019-12-16T06:22:09.931Z,"23km ESE of Little Lake, CA",earthquake,0.33,1.15,0.213,7,automatic,ci,ci
+2019-12-16T06:09:59.000Z,33.591,-116.8095,5.05,0.37,ml,12,94,0.03799,0.14,ci,ci39231864,2019-12-16T15:04:19.878Z,"13km WNW of Anza, CA",earthquake,0.46,0.59,0.227,7,reviewed,ci,ci
+2019-12-16T05:53:52.500Z,34.008,-116.3238333,7.43,0.94,ml,20,72,0.08217,0.2,ci,ci39231856,2019-12-16T05:57:38.770Z,"14km S of Joshua Tree, CA",earthquake,0.41,1.11,0.132,18,automatic,ci,ci
+2019-12-16T05:51:23.730Z,35.7186667,-117.5388333,7,1,ml,19,135,0.09952,0.12,ci,ci39231848,2019-12-16T05:55:04.780Z,"13km WSW of Searles Valley, CA",earthquake,0.26,0.59,0.113,11,automatic,ci,ci
+2019-12-16T05:35:23.100Z,33.4821667,-116.8023333,4.96,0.75,ml,30,33,0.03017,0.14,ci,ci39231832,2019-12-16T15:08:40.790Z,"7km NE of Aguanga, CA",earthquake,0.2,0.81,0.116,20,reviewed,ci,ci
+2019-12-16T05:29:42.535Z,-32.3471,150.7954,10,4.2,mb,,108,2.05,1.01,us,us60006s1c,2019-12-16T13:58:33.450Z,"11km ENE of Denman, Australia",earthquake,5.1,2,0.159,11,reviewed,us,us
+2019-12-16T05:27:50.500Z,40.2895012,-124.3903351,21.23,2.15,md,8,304,0.03654,0.05,nc,nc73315201,2019-12-16T07:22:03.209Z,"10km WSW of Petrolia, CA",earthquake,2.96,1.01,0.09,6,automatic,nc,nc
+2019-12-16T05:22:35.200Z,35.6038333,-117.4098333,8.88,2.3,ml,34,48,0.04605,0.15,ci,ci39231824,2019-12-16T05:33:17.040Z,"18km S of Trona, CA",earthquake,0.27,0.44,0.192,25,automatic,ci,ci
+2019-12-16T05:18:26.040Z,39.6655006,-121.9663315,22.75,1.95,md,8,136,0.2612,0.04,nc,nc73315186,2019-12-16T06:52:02.023Z,"10km SSE of Hamilton City, CA",earthquake,1.06,0.61,0.17,6,automatic,nc,nc
+2019-12-16T05:07:36.919Z,-6.161,-75.7557,24.34,4.4,mb,,88,5.065,0.72,us,us60006s13,2019-12-16T06:44:57.040Z,"46km SE of Yurimaguas, Peru",earthquake,7.4,4.6,0.13,17,reviewed,us,us
+2019-12-16T04:51:55.137Z,63.5187,-147.7439,15.5,1.7,ml,,,,0.44,ak,ak019g2ws90l,2019-12-16T04:56:05.186Z,"61km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-16T04:50:33.281Z,-18.4578,-172.1112,10,4.6,mb,,70,2.158,0.85,us,us60006s10,2019-12-16T05:20:32.040Z,"198km E of Neiafu, Tonga",earthquake,6.4,1.9,0.128,18,reviewed,us,us
+2019-12-16T04:48:11.709Z,58.9893,-136.1294,0,2.2,ml,,,,1.19,ak,ak019g2wrij6,2019-12-16T04:51:23.907Z,"47km SW of Haines, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-12-16T04:39:18.090Z,36.229,-117.907,0.61,1.61,ml,23,66,0.1189,0.18,ci,ci39231816,2019-12-16T15:09:00.840Z,"11km ESE of Olancha, CA",earthquake,0.28,0.57,0.132,23,reviewed,ci,ci
+2019-12-16T04:27:39.950Z,-32.3619,150.7517,10,3.7,mb,,120,2.077,0.94,us,us60006s1e,2019-12-16T10:36:41.138Z,"6km ENE of Denman, Australia",earthquake,8,2,0.205,6,reviewed,us,us
+2019-12-16T04:23:41.880Z,35.9696667,-117.664,2.08,1.69,ml,20,94,0.02437,0.18,ci,ci39231808,2019-12-16T04:27:31.205Z,"22km E of Little Lake, CA",earthquake,0.23,0.23,0.215,24,automatic,ci,ci
+2019-12-16T04:13:22.982Z,0.0315,123.9281,113.68,4.5,mb,,62,1.572,0.96,us,us60006s0d,2019-12-16T05:36:20.040Z,"39km S of Molibagu, Indonesia",earthquake,7.4,6.4,0.079,47,reviewed,us,us
+2019-12-16T04:08:27.960Z,18.7826,-65.6538,36,2.72,md,5,321,0.6395,0.15,pr,pr2019350003,2019-12-16T07:13:46.219Z,"43km NNE of Vieques, Puerto Rico",earthquake,2.22,5.71,0.22,3,reviewed,pr,pr
+2019-12-16T04:03:28.350Z,18.771,-67.3681,6,2.83,md,7,313,0.3976,0.13,pr,pr2019350002,2019-12-16T07:13:33.435Z,"41km NW of San Antonio, Puerto Rico",earthquake,1.22,1.24,0.22,6,reviewed,pr,pr
+2019-12-16T03:59:56.230Z,17.909,-66.5728,11,2.39,md,8,207,0.1379,0.22,pr,pr2019350001,2019-12-16T07:13:18.427Z,"12km SSE of Ponce, Puerto Rico",earthquake,1.04,0.75,0.35,8,reviewed,pr,pr
+2019-12-16T03:58:47.510Z,39.3614998,-123.283165,2.95,1.18,md,7,110,0.08733,0.03,nc,nc73315171,2019-12-16T05:42:02.598Z,"8km SE of Willits, CA",earthquake,0.53,6.44,0.13,5,automatic,nc,nc
+2019-12-16T03:51:26.750Z,36.8416,71.0768,104.3,4,mb,,97,0.83,0.5,us,us60006s07,2019-12-16T05:23:55.040Z,"21km E of Jarm, Afghanistan",earthquake,4.5,15.6,0.365,2,reviewed,us,us
+2019-12-16T03:30:27.377Z,61.4106,-150.4423,64.5,4.1,ml,,,,0.51,ak,ak019g2w296x,2019-12-16T17:39:39.226Z,"29km WSW of Big Lake, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-12-16T03:23:12.430Z,35.9155,-117.706,10.04,0.8,ml,18,57,0.05552,0.11,ci,ci39231792,2019-12-16T15:09:10.341Z,"18km E of Little Lake, CA",earthquake,0.25,0.5,0.247,7,reviewed,ci,ci
+2019-12-16T03:15:39.240Z,60.0755,-151.4698,60.6,2.4,ml,,,,0.59,ak,ak019g2vz2ea,2019-12-16T07:31:28.655Z,"33km SSW of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2019-12-16T03:10:29.964Z,24.0529,93.8434,54.03,4.4,mb,,91,0.453,0.44,us,us60006s03,2019-12-16T04:06:36.040Z,"35km SSE of Churachandpur, India",earthquake,8.9,6.1,0.19,8,reviewed,us,us
+2019-12-16T03:05:42.945Z,61.7577,-149.7051,28.7,1.7,ml,,,,0.35,ak,ak019g2vwxjq,2019-12-16T03:08:38.918Z,"15km NNW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-16T03:03:35.600Z,39.6438,-119.9657,4.9,1.1,ml,9,148.97,0.033,0.18,nn,nn00713041,2019-12-16T04:25:28.498Z,"4km SSE of Cold Springs, Nevada",earthquake,,1,,,automatic,nn,nn
+2019-12-16T02:46:43.578Z,60.3136,-151.8614,86.6,2,ml,,,,0.8,ak,ak019g2vkace,2019-12-16T02:55:56.308Z,"31km W of Cohoe, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2019-12-16T02:39:06.840Z,35.6711667,-117.4818333,5.02,0.94,ml,16,133,0.07194,0.19,ci,ci39231784,2019-12-16T02:42:49.576Z,"13km SSW of Searles Valley, CA",earthquake,0.39,0.81,0.095,11,automatic,ci,ci
+2019-12-16T02:38:10.610Z,19.2178326,-155.4225006,32.21,2.51,ml,47,151,0.03067,0.11,hv,hv71280146,2019-12-16T02:43:54.370Z,"6km ENE of Pahala, Hawaii",earthquake,0.54,0.58,0.13,3,automatic,hv,hv
+2019-12-16T02:34:36.024Z,6.6529,125.1085,10,4.7,mb,,77,0.624,0.83,us,us60006rzg,2019-12-16T02:59:04.040Z,"14km WNW of Kiblawan, Philippines",earthquake,7.3,1.9,0.092,36,reviewed,us,us
+2019-12-16T02:34:06.770Z,34.2063333,-117.409,12.44,1.76,ml,65,29,0.02052,0.2,ci,ci39231776,2019-12-16T02:44:40.850Z,"2km SSW of Devore, CA",earthquake,0.22,0.49,0.1,24,automatic,ci,ci
+2019-12-16T02:32:23.110Z,38.7924995,-122.8056641,2.7,0.79,md,18,79,0.004634,0.03,nc,nc73315156,2019-12-16T04:21:05.089Z,"5km WNW of The Geysers, CA",earthquake,0.25,0.57,0.18,5,automatic,nc,nc
+2019-12-16T02:30:44.690Z,38.793335,-122.8071671,2.94,0.66,md,17,78,0.005939,0.04,nc,nc73315151,2019-12-16T03:55:03.932Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.52,0.1,4,automatic,nc,nc
+2019-12-16T02:29:10.240Z,38.8139992,-122.8125,3.09,0.55,md,8,100,0.009572,0.01,nc,nc73315146,2019-12-16T03:29:02.785Z,"6km NW of The Geysers, CA",earthquake,0.69,1.01,,1,automatic,nc,nc
+2019-12-16T02:16:15.520Z,-23.8864,-66.9486,230.02,4.2,mb,,57,1.463,0.76,us,us60006rza,2019-12-16T03:58:53.040Z,"73km WNW of San Antonio de los Cobres, Argentina",earthquake,8.8,16.4,0.304,3,reviewed,us,us
+2019-12-16T02:13:47.700Z,35.8883333,-117.682,4.58,0.38,ml,20,78,0.06475,0.16,ci,ci39231768,2019-12-16T17:26:58.520Z,"21km ESE of Little Lake, CA",earthquake,0.21,0.51,0.104,5,reviewed,ci,ci
+2019-12-16T01:58:56.888Z,61.1674,-149.6107,33.7,1.8,ml,,,,0.67,ak,ak019g2v1gd4,2019-12-16T02:01:45.668Z,"16km ESE of Anchorage, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2019-12-16T01:56:03.940Z,35.6393333,-117.472,5.64,0.79,ml,13,127,0.04306,0.15,ci,ci39231760,2019-12-16T15:10:00.844Z,"16km SSW of Searles Valley, CA",earthquake,0.34,0.76,0.049,7,reviewed,ci,ci
+2019-12-16T01:53:39.780Z,35.13533333,-95.36766667,6.86,1.54,ml,32,130,0.106179164,0.2,ok,ok2019ynui,2019-12-16T14:33:13.662Z,"1km NNE of Quinton, Oklahoma",earthquake,,0.5,0.31,7,reviewed,ok,ok
+2019-12-16T01:48:52.640Z,36.2025,-97.58466667,7.43,1.5,ml,63,49,0.1700666271,0.21,ok,ok2019ynue,2019-12-16T14:40:14.280Z,"27km N of Crescent, Oklahoma",earthquake,,0.7,0.19,24,reviewed,ok,ok
+2019-12-16T01:41:14.003Z,59.9052,-153.0755,123.3,3.3,ml,,,,0.42,ak,ak019g2uxpvo,2019-12-16T07:33:25.152Z,"67km SSW of Redoubt Volcano, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-12-16T01:33:40.119Z,35.12866667,-95.36,7.18,2.43,ml,37,197,0.1160772217,0.19,ok,ok2019yntr,2019-12-16T14:25:01.217Z,"2km E of Quinton, Oklahoma",earthquake,,0.5,0.21,9,reviewed,ok,ok
+2019-12-16T01:24:45.390Z,36.1118333,-117.8535,3.08,1.57,ml,22,69,0.00584,0.15,ci,ci39231744,2019-12-16T15:10:06.843Z,"11km NE of Coso Junction, CA",earthquake,0.25,0.4,0.215,24,reviewed,ci,ci
+2019-12-16T01:24:41.250Z,17.9791,-66.3771,9,2.33,md,8,198,0.2378,0.22,pr,pr2019350000,2019-12-16T04:22:48.494Z,"1km NW of Jauca, Puerto Rico",earthquake,1.25,1.75,0.37,7,reviewed,pr,pr
+2019-12-16T01:14:25.820Z,35.05133333,-97.72633333,5,2.22,ml,65,34,0.1493706884,0.33,ok,ok2019ynta,2019-12-16T14:59:41.156Z,"11km SSW of Blanchard, Oklahoma",earthquake,,0.7,0.17,13,reviewed,ok,ok
+2019-12-16T01:10:17.790Z,37.6585007,-118.8335037,14.54,1.19,md,7,148,0.02059,0.08,nc,nc73315121,2019-12-16T01:40:03.165Z,"13km E of Mammoth Lakes, CA",earthquake,2.65,8.63,0.49,6,automatic,nc,nc
+2019-12-16T01:06:47.480Z,33.8611667,-117.791,14.44,1.21,ml,27,90,0.03257,0.22,ci,ci39231736,2019-12-16T15:13:48.670Z,"4km SE of Yorba Linda, CA",earthquake,0.42,0.74,0.25,29,reviewed,ci,ci
+2019-12-16T01:02:27.550Z,33.7383333,-117.0398333,14.01,0.57,ml,29,123,0.04391,0.14,ci,ci39231728,2019-12-16T17:27:53.524Z,"3km E of Green Acres, CA",earthquake,0.27,0.36,0.143,7,reviewed,ci,ci
+2019-12-16T00:35:54.610Z,35.0441667,-117.671,-0.79,1.56,ml,27,58,0.1115,0.2,ci,ci39231720,2019-12-16T17:16:45.766Z,"5km NNW of Boron, CA",quarry blast,0.47,31.61,0.225,16,reviewed,ci,ci
+2019-12-16T00:35:26.330Z,32.9155,-116.1933333,10.66,1.2,ml,23,79,0.1004,0.23,ci,ci39231712,2019-12-16T00:39:03.656Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.42,0.93,0.185,18,automatic,ci,ci
+2019-12-16T00:32:25.340Z,-18.8894,168.1711,10,4.4,mwr,,100,2.581,0.82,us,us60006ryj,2019-12-16T01:15:20.040Z,"128km S of Port-Vila, Vanuatu",earthquake,8,1.9,0.083,14,reviewed,us,us
+2019-12-16T00:18:25.720Z,33.8611667,-116.824,18.36,0.9,ml,21,60,0.1739,0.16,ci,ci39231696,2019-12-16T15:13:46.952Z,"7km SSW of Cabazon, CA",earthquake,0.34,0.66,0.223,24,reviewed,ci,ci
+2019-12-16T00:13:14.390Z,19.7255001,-154.9765015,48.64,2.3,ml,61,214,0.05255,0.12,hv,hv71280001,2019-12-16T00:25:53.040Z,"11km E of Hilo, Hawaii",earthquake,0.61,0.78,4.38,4,automatic,hv,hv
+2019-12-16T00:11:12.320Z,35.8676667,-117.691,9.64,1.25,ml,23,78,0.08416,0.2,ci,ci39231688,2019-12-16T15:14:03.313Z,"21km ESE of Little Lake, CA",earthquake,0.37,0.82,0.266,17,reviewed,ci,ci
+2019-12-15T23:54:24.021Z,60.0753,-153.4531,156.5,2.7,ml,,,,0.36,ak,ak019g1kkpsc,2019-12-16T05:05:17.155Z,"50km ENE of Old Iliamna, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-12-15T23:54:17.772Z,63.6921,-149.5848,116.7,1.7,ml,,,,0.36,ak,ak019g1kkpbx,2019-12-16T05:12:29.318Z,"35km WSW of Healy, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2019-12-15T23:51:12.210Z,38.8023338,-122.8026657,2.35,0.55,md,11,59,0.008046,0.01,nc,nc73315116,2019-12-16T00:21:04.676Z,"5km NW of The Geysers, CA",earthquake,0.33,0.75,,1,automatic,nc,nc
+2019-12-15T23:44:05.780Z,17.8903,-66.5721,13,2.23,md,4,301,0.4787,0.26,pr,pr2019349020,2019-12-16T04:21:46.383Z,"13km SW of Potala Pastillo, Puerto Rico",earthquake,6.98,14.78,0.41,3,reviewed,pr,pr
+2019-12-15T23:41:44.140Z,63.259,-151.7745,6.8,1.8,ml,,,,0.86,ak,ak019g1khz16,2019-12-15T23:54:08.255Z,"134km NW of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-15T23:32:59.747Z,65.9105,-166.1013,0,2.9,ml,,,,0.61,ak,ak019g1kg5yj,2019-12-16T00:05:31.040Z,"38km S of Shishmaref, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2019-12-15T23:31:21.260Z,46.268,-122.386,16.77,0.47,ml,13,238,,0.16,uw,uw61564116,2019-12-16T02:42:42.450Z,"33km SSW of Morton, Washington",earthquake,1.06,1.07,0.156080803301903,8,reviewed,uw,uw
+2019-12-15T23:27:29.094Z,62.3346,-148.8082,37.8,1.9,ml,,,,0.71,ak,ak019g1kexu5,2019-12-15T23:37:14.325Z,"57km ENE of Y, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2019-12-15T23:16:57.830Z,17.8816,-66.5526,13,2.27,md,4,303,0.4994,0.1,pr,pr2019349019,2019-12-16T04:21:32.399Z,"13km SSW of Potala Pastillo, Puerto Rico",earthquake,3.7,7.99,0.12,3,reviewed,pr,pr
+2019-12-15T23:15:09.674Z,60.2796,-151.6257,61.3,2.1,ml,,,,0.69,ak,ak019g1kcbr5,2019-12-15T23:19:39.520Z,"20km WSW of Cohoe, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2019-12-15T23:05:06.330Z,35.8778333,-117.7101667,1.5,1.26,ml,20,52,0.08219,0.23,ci,ci39231640,2019-12-15T23:08:47.445Z,"19km ESE of Little Lake, CA",earthquake,0.3,0.49,0.176,20,automatic,ci,ci
+2019-12-15T22:56:36.856Z,62.8493,-150.5288,88.9,1.9,ml,,,,0.34,ak,ak019g1jzqmf,2019-12-15T23:02:45.631Z,"62km NNW of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-12-15T22:37:05.190Z,19.0883,-66.3838,22,2.73,md,6,294,0.8289,0.17,pr,pr2019349018,2019-12-15T23:25:52.906Z,"68km N of Brenas, Puerto Rico",earthquake,1.25,15.29,0.08,5,reviewed,pr,pr
+2019-12-15T22:21:17.880Z,17.9001,-66.5936,11,1.97,md,8,209,0.1433,0.11,pr,pr2019349017,2019-12-15T23:25:40.282Z,"12km S of Ponce, Puerto Rico",earthquake,0.68,0.49,0.14,5,reviewed,pr,pr
+2019-12-15T22:01:30.680Z,33.5615,-116.8081667,7.96,0.51,ml,14,106,0.04883,0.24,ci,ci39231608,2019-12-15T22:05:13.072Z,"12km W of Anza, CA",earthquake,0.59,1.33,0.204,8,automatic,ci,ci
+2019-12-15T21:52:03.207Z,42.7899,141.9526,42.95,4.6,mb,,80,1.181,0.64,us,us60006rwz,2019-12-16T03:07:17.972Z,"24km E of Chitose, Japan",earthquake,6.1,7.7,0.044,154,reviewed,us,us
+2019-12-15T21:50:25.498Z,62.8153,-150.7056,95.6,2.6,ml,,,,0.33,ak,ak019g1jczs8,2019-12-15T22:03:33.668Z,"62km NNW of Talkeetna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-12-15T21:45:12.790Z,33.7916667,-116.095,2.28,1.81,ml,49,81,0.1055,0.19,ci,ci39231592,2019-12-15T21:56:07.430Z,"14km NE of Indio, CA",earthquake,0.22,0.41,0.139,27,automatic,ci,ci
+2019-12-15T21:45:08.380Z,18.2445,-67.3675,76,2.51,md,6,190,0.179,0.14,pr,pr2019349016,2019-12-15T23:25:28.906Z,"15km SW of Stella, Puerto Rico",earthquake,1.29,1.46,0.07,3,reviewed,pr,pr
+2019-12-15T21:20:12.660Z,45.8593333,-111.3623333,4.61,1.72,ml,14,87,0.309,0.16,mb,mb80375179,2019-12-15T23:48:16.650Z,"2km W of Manhattan, Montana",earthquake,0.41,3.67,0.023,7,reviewed,mb,mb
+2019-12-15T21:20:08.220Z,33.3778333,-116.9773333,6.82,0.75,ml,16,73,0.04694,0.22,ci,ci39231576,2019-12-15T21:23:49.415Z,"9km E of Pala, CA",earthquake,0.39,0.79,0.069,13,automatic,ci,ci
+2019-12-15T21:16:28.700Z,38.8580017,-122.7726669,-0.68,0.8,md,14,212,0.01565,0.23,nc,nc73315101,2019-12-15T21:55:02.766Z,"6km NW of Cobb, CA",earthquake,1.08,3.54,0.24,3,automatic,nc,nc
+2019-12-15T21:01:52.670Z,19.148,-67.124,10,2.94,md,6,337,0.6806,0.32,pr,pr2019349015,2019-12-15T23:25:10.490Z,"72km N of Isabela, Puerto Rico",earthquake,5.85,31.61,0.24,3,reviewed,pr,pr
+2019-12-15T21:00:06.253Z,62.9719,-150.5637,118.3,1.9,ml,,,,1.05,ak,ak019g1j28ng,2019-12-15T21:04:00.723Z,"75km NNW of Talkeetna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2019-12-15T20:59:22.417Z,0.5688,96.4356,41.32,4.7,mb,,128,1.353,1.03,us,us60006rwl,2019-12-15T21:41:30.040Z,"211km S of Sinabang, Indonesia",earthquake,11.2,8,0.082,45,reviewed,us,us
+2019-12-15T20:46:54.060Z,35.649,-117.5351667,5.87,1.53,ml,21,72,0.03858,0.19,ci,ci39231560,2019-12-16T15:15:44.883Z,"13km ENE of Ridgecrest, CA",earthquake,0.31,0.71,0.19,21,reviewed,ci,ci
+2019-12-15T20:38:06.823Z,2.8277,128.1895,86.83,4.3,mb,,194,2.201,0.76,us,us60006rwi,2019-12-15T21:45:03.040Z,"123km N of Tobelo, Indonesia",earthquake,13.6,6.5,0.153,12,reviewed,us,us
+2019-12-15T20:11:00.100Z,36.88333333,-97.875,4.66,1.68,ml,42,106,0.03419329011,0.26,ok,ok2019ynja,2019-12-16T15:04:49.719Z,"15km NW of Medford, Oklahoma",earthquake,,0.5,0.22,14,reviewed,ok,ok
+2019-12-15T20:07:54.380Z,38.8390007,-122.8311691,2.13,0.73,md,15,82,0.01615,0.02,nc,nc73315096,2019-12-15T21:29:02.627Z,"9km NW of The Geysers, CA",earthquake,0.26,0.56,0.14,4,automatic,nc,nc
+2019-12-15T20:04:58.930Z,40.2526665,-124.1693344,13.13,1.99,md,11,92,0.002673,0.06,nc,nc73315091,2019-12-15T21:03:04.485Z,"13km SE of Petrolia, CA",earthquake,0.49,0.87,0.11,6,automatic,nc,nc
+2019-12-15T19:58:37.179Z,32.9758,141.8595,20,4.6,mb,,129,1.723,1.01,us,us60006rw9,2019-12-15T20:17:58.040Z,"192km E of Hachijo-jima, Japan",earthquake,7.7,3.8,0.122,20,reviewed,us,us
+2019-12-15T19:42:55.474Z,12.543,-86.8645,163.82,4.6,mb,,144,0.073,0.39,us,us60006rvv,2019-12-15T19:56:01.040Z,"2km NNW of Telica, Nicaragua",earthquake,8.7,7.1,0.101,29,reviewed,us,us
+2019-12-15T19:23:37.350Z,-14.2764,-71.9903,83.42,4.9,mb,,113,4.084,0.77,us,us60006rvh,2019-12-15T19:49:39.040Z,"21km NNE of Santo Tomas, Peru",earthquake,11.8,8.5,0.034,271,reviewed,us,us
+2019-12-15T19:22:49.671Z,68.5857,-148.0144,0,2.6,ml,,,,0.67,ak,ak019g1i06uz,2019-12-15T20:05:27.040Z,"114km WNW of Arctic Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-12-15T19:21:18.960Z,37.5740013,-122.3721695,9.95,1.11,md,10,116,0.03893,0.04,nc,nc73315076,2019-12-15T20:09:04.176Z,"1km E of Hillsborough, CA",earthquake,0.81,1.03,0.3,7,automatic,nc,nc
+2019-12-15T19:20:21.255Z,61.7214,-147.5638,32.8,1.9,ml,,,,0.82,ak,ak019g1hzosx,2019-12-15T19:33:33.962Z,"68km E of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2019-12-15T19:19:53.450Z,44.6783333,-111.8835,12.51,1.27,md,15,128,0.164,0.21,mb,mb80375174,2019-12-15T23:56:32.950Z,"56km E of Lima, Montana",earthquake,0.62,1.59,0.101,10,reviewed,mb,mb
+2019-12-15T19:16:25.820Z,35.662,-117.4726667,6.16,1.47,ml,25,57,0.06434,0.18,ci,ci39231520,2019-12-16T15:16:55.460Z,"13km SSW of Searles Valley, CA",earthquake,0.3,0.89,0.183,22,reviewed,ci,ci
+2019-12-15T19:13:50.507Z,35.1201,140.8132,51.31,4.7,mb,,126,2.164,0.8,us,us60006rvf,2019-12-16T09:47:43.432Z,"41km ESE of Ohara, Japan",earthquake,6.6,9.2,0.148,14,reviewed,us,us
+2019-12-15T19:02:02.493Z,6.5997,125.1634,10,4.8,mb,,93,0.623,0.52,us,us60006rv6,2019-12-15T19:16:27.040Z,"8km W of Kiblawan, Philippines",earthquake,7.9,1.9,0.131,18,reviewed,us,us
+2019-12-15T18:46:23.190Z,38.8370018,-122.7486649,0.91,1,md,8,119,0.01783,0.03,nc,nc73315066,2019-12-15T19:16:07.874Z,"3km NW of Cobb, CA",earthquake,0.48,0.72,0.04,3,automatic,nc,nc
+2019-12-15T18:42:08.052Z,-24.1737,-67.2393,181.73,5,mww,,70,1.49,1.03,us,us60006rv1,2019-12-15T18:55:16.040Z,"93km W of San Antonio de los Cobres, Argentina",earthquake,8.6,7.7,0.08,15,reviewed,us,us
+2019-12-15T18:31:22.410Z,19.2094994,-155.4191742,32.07,2.07,md,36,150,0.03458,0.14,hv,hv71279761,2019-12-15T18:34:47.210Z,"6km E of Pahala, Hawaii",earthquake,0.64,0.75,0.16,7,automatic,hv,hv
+2019-12-15T18:30:21.593Z,64.6364,-151.0251,11.3,2,ml,,,,1.21,ak,ak019g1hgeaf,2019-12-15T18:42:28.839Z,"44km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-12-15T18:28:34.360Z,44.3936667,-111.1258333,19.03,0.55,md,10,154,0.2074,0.15,uu,uu60353897,2019-12-16T16:04:59.210Z,"24km WSW of Old Faithful Geyser, Wyoming",earthquake,0.76,1.27,0.269,5,reviewed,uu,uu
+2019-12-15T18:26:19.365Z,68.5489,-147.9212,16.1,3.2,ml,,,,0.39,ak,ak019g1hfjfl,2019-12-16T04:46:12.061Z,"112km WNW of Arctic Village, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-12-15T18:24:06.436Z,6.6317,125.2819,16.74,4.8,mb,,92,0.525,1.29,us,us60006rux,2019-12-15T19:02:04.040Z,"3km S of Malinao, Philippines",earthquake,4.4,5.5,0.091,37,reviewed,us,us
+2019-12-15T18:23:39.310Z,35.7878333,-117.6125,6.56,0.98,ml,19,103,0.0304,0.19,ci,ci39231504,2019-12-15T18:27:21.347Z,"19km W of Searles Valley, CA",earthquake,0.38,0.65,0.188,13,automatic,ci,ci
+2019-12-15T18:19:25.070Z,33.6031667,-116.804,5.28,0.34,ml,16,88,0.03462,0.15,ci,ci39231496,2019-12-15T18:23:16.237Z,"13km WNW of Anza, CA",earthquake,0.43,0.68,0.162,8,automatic,ci,ci
+2019-12-15T18:16:44.474Z,6.4197,125.4301,10,4.6,mb,,151,0.662,1.2,us,us60006ruu,2019-12-15T18:57:24.040Z,"9km SSW of Pung-Pang, Philippines",earthquake,5.6,2,0.132,17,reviewed,us,us
+2019-12-15T17:57:06.746Z,-26.8756,-65.3683,35.94,5,mb,,73,3.359,0.55,us,us60006rul,2019-12-15T21:06:28.258Z,"8km SW of Yerba Buena, Argentina",earthquake,3.9,8.7,0.039,214,reviewed,us,us
+2019-12-15T17:54:43.090Z,35.8015,-117.6235,5.62,1.34,ml,21,71,0.02546,0.18,ci,ci39231472,2019-12-15T17:58:18.168Z,"20km W of Searles Valley, CA",earthquake,0.29,0.58,0.216,21,automatic,ci,ci
+2019-12-15T17:46:47.100Z,17.9081,-66.6021,10,2.06,md,4,208,0.1348,0.05,pr,pr2019349014,2019-12-16T04:21:47.157Z,"11km S of Ponce, Puerto Rico",earthquake,0.6,0.77,0.17,3,reviewed,pr,pr
