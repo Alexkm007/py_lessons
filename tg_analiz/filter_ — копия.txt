@@ -1,0 +1,26 @@
+Удаленный хост
+ClientComputerName=,ServerComputerName=
+Outgoing connection closed
+RemoteInterfaceImpl.cpp
+Подключение не установлено
+Процесс завершается
+RMngrCalls.cpp
+DataExchangeTcpClientImpl
+MName=getProcessesSetVersion
+MName=getDynDataList
+src\LicenseBaseImpl.cpp
+Ошибка программного
+После получения
+DISK_0:
+OS Ser_0:
+OS Inst Date_0:
+OS Ver_0:
+OS_0:
+Sys Name_0:
+В текущей конфигурации
+Phis Mem_0:
+OS_0:
+DISK_1:
+ClusterDistribImpl.cpp
+Сеанс отсутствует
+ClusterSeanceContextImpl

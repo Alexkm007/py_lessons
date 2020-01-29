@@ -1,0 +1,36 @@
+Ошибка доступа к файлу
+Отсутствует файл базы данных
+ClientComputerName=,ServerComputerName=
+Outgoing connection closed
+Передача данных прервана
+EXCPCNTX,1,SrcName=SCOM,process=1CV8C
+EXCPCNTX,0,SrcName=PROC,process=1CV8C
+recv returns zero, disconnected line
+Файл не обнаружен
+Удаленный хост принудительно разорвал существующее подключение
+EXCPCNTX,0,SrcName=PROC,process=1CV8,OSThread=
+EXCPCNTX,0,SrcName=PROC,process=1cv8,OSThread
+Попытка установить соединение была безуспешной
+EXCPCNTX,2,SrcName=SCOM,process=1cv8,OSThread=
+Сделана попытка выполнить операцию на сокете при отключенной сети
+SrcName=SCALL,process=1cv8c,OSThread=
+EXCPCNTX,0,SrcName=PROC,process=1cv8c,OSThread=
+ошибка соединения с менеджером лицензий
+Подключение не установлено, т.к.
+Не найдена лицензия
+Ошибка программного лицензирования
+Ошибка загрузки компоненты cfgtest
+Различаются версии клиента и сервера
+Ошибка запуска процесса менеджера кластера
+Параметр задан неверно
+IName=IClusterLocks,Method=
+IName=IClusterRegistry,Method=
+IName=IServerMonitor,Method=
+Исходящий вызов запрещен
+C:\Users\1cService\AppData\Local\1C\1cv8\dumps
+Не удается найти указанный файл
+Сеанс отсутствует или удален
+OSException=rphost_8.3.15.1700
+OSException=rmngr_8.3.15.1700
+process=ragent
+Активные сеансы и соединения
